@@ -4,9 +4,9 @@
 
 ## idea1
 
-基于[Text Normalization][https://www.kaggle.com/c/text-normalization-challenge-english-language]的办公轻量化交流系统，主要实现的功能有：
+基于[Text Normalization](https://www.kaggle.com/c/text-normalization-challenge-english-language)的办公轻量化交流系统，主要实现的功能有：
 
-- 发送消息前的语境修正。包括缩写扩充，拼写检查，口语向书面语转化，[性别代词识别与检查][https://www.kaggle.com/c/gendered-pronoun-resolution]；
+- 发送消息前的语境修正。包括缩写扩充，拼写检查，口语向书面语转化，[性别代词识别与检查](https://www.kaggle.com/c/gendered-pronoun-resolution)；
 - TODO LIST：private and public；
 - 强大的分组功能和能与分组对应的用户公文片段（像VScode中的用户代码片段）；
 - 自然的团队交流功能，公共文件分享；
@@ -23,10 +23,10 @@
 
 ## idea2
 
-基于[Cornell Birdcall Identification][https://www.kaggle.com/c/birdsong-recognition]的住宅旁鸟类识别系统。主要实现的功能有：
+基于[Cornell Birdcall Identification](https://www.kaggle.com/c/birdsong-recognition)的住宅旁鸟类识别系统。主要实现的功能有：
 
 - 根据鸟叫or鸟巢外形or鸟类外形识别住宅附近的鸟类；
-- [Identify bird species from continuous audio recordings][https://www.kaggle.com/c/the-icml-2013-bird-challenge]
+- [Identify bird species from continuous audio recordings](https://www.kaggle.com/c/the-icml-2013-bird-challenge)
 - 根据习性做出应对。
 - 有些过于趋向于“运用一个ml模型"，而不是真正做好一个软件，需要更自然的功能挖掘。
 
