@@ -59,3 +59,6 @@ The smallest, simplest and fastest JavaScript pixel-level image comparison libra
 Features accurate **anti-aliased pixels detection** and **perceptual color difference metrics**.
 
 Inspired by [Resemble.js](https://github.com/Huddle/Resemble.js) and [Blink-diff](https://github.com/yahoo/blink-diff). Unlike these libraries, pixelmatch is around **150 lines of code**, has **no dependencies**, and works on **raw typed arrays** of image data, so it's **blazing fast** and can be used in **any environment** (Node or browsers).
+
+**possible usage:**
+对比两张图片的不同，或许可以解决修图阈值的问题
